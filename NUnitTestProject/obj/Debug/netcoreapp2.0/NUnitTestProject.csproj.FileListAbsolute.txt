@@ -1,0 +1,4 @@
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\obj\Debug\netcoreapp2.0\NUnitTestProject.csprojAssemblyReference.cache
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\obj\Debug\netcoreapp2.0\NUnitTestProject.AssemblyInfoInputs.cache
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\obj\Debug\netcoreapp2.0\NUnitTestProject.AssemblyInfo.cs
+G:\Sony\source\repos\NUnitTestProject\NUnitTestProject\obj\Debug\netcoreapp2.0\NUnitTestProject.csproj.CoreCompileInputs.cache
